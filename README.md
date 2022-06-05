@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shalin Joshi.
+- 👋 Hi, I’m Shalin Joshi
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science
 - 👀 I’m interested in Data Recognition Techniques
