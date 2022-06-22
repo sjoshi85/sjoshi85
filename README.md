@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shalin Joshi
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
+- 🌱 I’m currently learning Python from Datatrained
+- 💞️ I’m looking to collaborate on Data Science/Machine Learning & Neural Networks 
 - 👀 I’m interested in Data Recognition Techniques
 - 📫 Reach me : shalin_zeus85@yahoo.com
 
