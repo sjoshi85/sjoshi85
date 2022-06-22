@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shalin Joshi
-- 🌱 I’m currently learning Python from Datatrained
-- 💞️ I’m looking to collaborate on Data Science/Machine Learning & Neural Networks 
+- 🌱 I’m currently learning Python and SQL from Datatrained
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning & Neural Networks 
 - 👀 I’m interested in Data Recognition Techniques
-- 📫 Reach me : shalin_zeus85@yahoo.com
+- 📫 Reach me : shalin.jz85@gmail.com
 
 <!---
 Shalin Joshi/sjoshi85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
